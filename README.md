@@ -1,11 +1,11 @@
-2>&1¸ÑÄÀ
+2>&1è§£é‡‹
 http://blog.csdn.net/ithomer/article/details/9288353
 
-bash function ¾Ç²ß
+bash function å­¸ç¿’
 http://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php
 
-pathinfo §ğÀ»ºt½m
+pathinfo æ”»æ“Šæ¼”ç·´
 http://www.54chen.com/php-tech/nginx-php-cgi-of-security-hole.html
 
-pathinfo ¦w¥ş°İÃD¦ü¥G³Q­×Å@
+pathinfo å®‰å…¨å•é¡Œä¼¼ä¹è¢«ä¿®è­·
 http://serverfault.com/questions/627903/is-the-php-option-cgi-fix-pathinfo-really-dangerous-with-nginx-php-fpm

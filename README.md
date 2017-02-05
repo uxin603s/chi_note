@@ -9,3 +9,9 @@ http://www.54chen.com/php-tech/nginx-php-cgi-of-security-hole.html
 
 pathinfo 安全問題似乎被修護
 http://serverfault.com/questions/627903/is-the-php-option-cgi-fix-pathinfo-really-dangerous-with-nginx-php-fpm
+
+awk 分割及取得欄位
+http://ithelp.ithome.com.tw/articles/10099558
+
+linux 
+w可以查詢使用者ip及tty
